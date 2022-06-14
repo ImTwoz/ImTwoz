@@ -1,6 +1,6 @@
 More about me:
 
-- 🪐 I’m currently working for **...**
+- 🪐 I’m currently working for **Myself**
 - ⭐ I’m currently learning **React (Native)**
 - 📫 How to reach me: jao.#5066 (**DISCORD**)
 - ⚡ Fun fact: I started working with programming when I was **12 years old**.
